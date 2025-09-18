@@ -1,0 +1,11 @@
+Premise;Hypothesis;Label;Label_no_ft;Label_directive;Label_legends
+Directive 2022/2381 states that at least 40% of non-executive directors must belong to the underrepresented sex.;Companies must ensure that 40% of the board is composed of women.;entailment;not_entailment;not_entailment;not_entailment
+The directive requires transparency in selection processes.;Companies may appoint directors without public criteria.;not_entailment;not_entailment;not_entailment;not_entailment
+Member States must introduce sanctions for non-compliant companies.;A company that ignores the directive faces no consequences.;not_entailment;not_entailment;not_entailment;not_entailment
+The directive only applies to companies listed on regulated markets.;Family-owned unlisted businesses must also comply with the directive.;not_entailment;not_entailment;not_entailment;not_entailment
+If two candidates have equal qualifications, the underrepresented sex must be favored.;In case of equal merit, a woman is favored if underrepresented.;entailment;entailment;entailment;entailment
+The directive must be implemented by 2026.;Measures must be operational by 2026.;entailment;entailment;entailment;entailment
+Member States must send periodic reports to the Commission.;Governments must communicate progress to Brussels.;entailment;entailment;entailment;entailment
+The directive does not change individual employment contracts.;The provisions affect individual employee contracts.;not_entailment;not_entailment;not_entailment;not_entailment
+The directive aims to improve corporate governance.;The goal is to strengthen transparency and board balance.;entailment;entailment;entailment;entailment
+The directive concerns gender balance on boards.;The regulation is focused on data protection.;not_entailment;not_entailment;not_entailment;not_entailment

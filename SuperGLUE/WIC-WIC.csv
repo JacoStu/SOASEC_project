@@ -1,0 +1,11 @@
+Sentence_1;Sentence_2;Word;Label;Label_no_ft;Label_directive;Label_legends
+The board promoted gender balance in appointments, following the EU 2022/2381 directive.;The gender of the candidate was clearly indicated on the application form.;gender;1;1;1;1
+The manager showed great respect for the employees during the gender balance reporting.;The directive requires shareholders to show respect for diversity principles.;respect;1;1;0;0
+Gender quotas were reached by the company in line with Directive 2022/2381.;The gender of the newborn was celebrated at home.;gender;0;0;1;0
+The employee suffered discrimination due to lack of gender balance.;The company suffered sanctions for not meeting the directive's requirements.;suffered;0;0;0;1
+The board of directors adopted new measures to ensure gender equality.;The school board discussed unrelated matters about student funding.;board;0;0;0;0
+The role of the chairperson was crucial in implementing gender quotas.;His role in drafting the compliance report was essential.;role;1;1;1;1
+The selection of candidates ensured compliance with the 40% gender quota.;Natural selection explains adaptation in biology.;selection;0;0;0;0
+The annual financial report included a section on gender balance compliance.;The report on gender representation was submitted to the European Commission.;report;1;1;1;1
+The presence of women on boards increased after the directive was enforced.;The constant presence of auditors ensured transparency.;presence;1;1;1;1
+Gender balance was respected by appointing more women to the board.;Financial balance was maintained despite restructuring.;balance;0;0;0;0

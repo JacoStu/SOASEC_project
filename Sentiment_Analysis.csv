@@ -1,0 +1,11 @@
+﻿Sentence;Gold_Label;Label_no_ft;Label_directive;Label_legends;
+Although compliance requires time and resources, the directive is pushing companies toward greater transparency.;Positive;Positive;Positive;Positive;Label_legends è positivo (**positivo**) alla seconda iterazione (la prima era negativo).
+Policies to promote equality often end up being just empty slogans.;Negative;Negative;Negative;Negative;
+Despite initial difficulties, mandatory quotas have paved the way for more balanced decisions.;Positive;Positive;Positive;Positive;
+"Gender equality is not a real priority; there are much more important issues.";Negative;Negative;Negative;Negative;
+Despite its noble intentions, the directive is perceived by many companies as an external imposition.;Negative;Negative;Negative;Negative;
+Although it aims for balance, the regulation risks becoming a bureaucratic burden that slows down business decisions.;Negative;Negative;Negative;Negative;
+Measures to promote gender equality are essential to reduce gaps that are still too evident in the labor market.;Positive;Positive;Positive;Positive;
+Although women represent 60% of graduates in Europe, their careers often hit the glass ceiling due to stereotypes that view them as unsuitable for leadership roles, especially because of the fear that potential pregnancy will interrupt their professional advancement.;Negative;Negative;Negative;Negative;
+The transparency mandated by EU Directive 2022/2391, while requiring additional effort, is finally breaking down the wall of opacity that has protected executive appointments for years, ensuring that selection processes are based on merit and not on outdated networks.;Positive;Positive;Positive;Positive;
+Some entrepreneurs consider this a challenge, but recognize that it will bring long-term benefits.;Positive;Positive;Positive;Positive;

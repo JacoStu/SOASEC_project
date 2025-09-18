@@ -1,0 +1,21 @@
+﻿Sentence;Gold_Label;Label_no_ft;Label_directive;Label_legends
+"Paragraph: ""Member States must take measures to ensure that the selection processes for board candidates are based on transparent and neutral criteria.""
+Question: ""According to the Directive, must the selection criteria be impartial?""";Yes;Yes;Yes;Yes
+"Paragraph: ""Small and medium-sized enterprises are not covered by the Directive.""
+Question: ""Do SMEs have to comply with the Directive's obligations?""";No;No;No;No
+"Paragraph: ""By June 30, 2026, at least 40% of non-executive directorships must be held by the underrepresented sex.""
+Question: ""Does the Directive set a gender representation quota by 2026?""";Yes;Yes;Yes;Yes
+"Paragraph: ""Member States must ensure that penalties for non-compliant companies are effective, proportionate, and dissuasive, without setting precise amounts.""
+Question: ""Does the Directive precisely define the amount of penalties?""";No;No;No;No
+"Paragraph: ""Listed companies must report to the Commission every two years on their progress in implementing the Directive, including the targets set.""
+Question: ""Are listed companies required to provide a biennial report on the implementation of the Directive?""";Yes;Yes;Yes;Yes
+"Paragraph: ""AlphaTech, listed in Milan, knew that by 2026, at least 40% of its non-executive directors had to be of the underrepresented sex. The board had begun planning new hires.""
+Question: ""Was AlphaTech subject to a 40% gender quota requirement?""";Yes;Yes;Yes;Yes
+"Paragraph: ""The SME Beta Consulting, with only 40 employees, was not among the companies required to comply with the provisions of the Directive.""
+Question: ""Was Beta Consulting bound by the Directive's obligations?""";No;No;No;No
+"Paragraph: ""The government of one Member State had established severe penalties for companies that did not comply with the directive, but the exact amount of the fines was not established in the European text.""
+Question: ""Did the text of the directive precisely establish the fines in euros?""";No;No;No;No
+"Paragraph: ""Optima Fin appointed three new female directors to meet quotas, achieving 33% female representation on the board.""
+Question: ""Had Optima Fin achieved 33% gender representation on the board?""";Yes;Yes;Yes;Yes
+"Paragraph: ""The Ministry required listed companies to submit a report to the Commission every two years, outlining the actions taken to increase the presence of women on boards.""
+Question: ""Were companies required to submit annual reports to the Commission?""";No;No;No;No
